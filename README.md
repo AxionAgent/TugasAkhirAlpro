@@ -1,2 +1,2 @@
 # TugasAkhirAlpro
-Membuat aplikasi search engine menggunakan python berbasis CLI 
+TechSeek adalah aplikasi Mini Search Engine berbasis Command Line Interface (CLI) yang digunakan untuk mencari berita bertema teknologi dan Artificial Intelligence (AI). Aplikasi menyimpan 50 berita. Pengguna memasukkan query berisi 2–4 kata, kemudian sistem mengolah kata, mencocokkan query dengan berita, menghitung skor relevansi, dan menampilkan hasil berdasarkan skor tertinggi

@@ -1,5 +1,2 @@
-from processing.case_folding import case_folding
-
-
-query = input("Cari: ")
-print(case_folding(query))
+from preprocessing import case_folding
+from engine.tf_idf import calculate_frequency, calculate_document_frequency
